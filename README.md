@@ -16,6 +16,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
