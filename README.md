@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
