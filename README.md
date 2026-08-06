@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [1470-shuffle-the-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
