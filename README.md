@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
