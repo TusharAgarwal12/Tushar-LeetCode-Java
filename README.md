@@ -65,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
