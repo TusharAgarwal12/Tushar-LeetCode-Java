@@ -13,7 +13,7 @@ class Solution {
                 st.pop();
             }
             if(i<n){
-                ans[i]=st.empty()?-1:st.peek();
+                ans[ind]=st.empty()?-1:st.peek();
             }
             st.push(curr);
         }
