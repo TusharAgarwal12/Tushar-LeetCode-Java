@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [1470-shuffle-the-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1929-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
