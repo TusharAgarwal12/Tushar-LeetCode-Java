@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [1470-shuffle-the-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0232-implement-queue-using-stacks](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
