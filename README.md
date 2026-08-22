@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 ## String
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -177,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0901-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
