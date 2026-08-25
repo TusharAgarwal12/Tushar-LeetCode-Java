@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0053-maximum-subarray) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
