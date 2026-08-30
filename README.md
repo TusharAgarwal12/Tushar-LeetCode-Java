@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
