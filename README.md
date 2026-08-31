@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
+| [0460-lfu-cache](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0460-lfu-cache) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
