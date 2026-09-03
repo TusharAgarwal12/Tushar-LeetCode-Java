@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1929-concatenation-of-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
