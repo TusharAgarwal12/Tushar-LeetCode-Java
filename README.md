@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 ## Range Minimum/Maximum Query
 |  |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
