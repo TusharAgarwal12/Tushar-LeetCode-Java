@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0904-fruit-into-baskets) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
