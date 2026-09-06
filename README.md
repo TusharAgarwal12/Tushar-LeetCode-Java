@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-sum-of-subarray-minimums](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Memoization
 |  |
