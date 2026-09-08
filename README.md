@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
