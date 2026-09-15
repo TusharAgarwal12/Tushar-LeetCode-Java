@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0076-minimum-window-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0402-remove-k-digits) |
