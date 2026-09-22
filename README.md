@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/1248-count-number-of-nice-subarrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
@@ -273,4 +276,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
