@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0204-count-primes) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
