@@ -303,4 +303,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
