@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0460-lfu-cache](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0460-lfu-cache) |
 ## Binary Search
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -328,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0703-kth-largest-element-in-a-stream) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TusharAgarwal12/Tushar-LeetCode-Java/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
